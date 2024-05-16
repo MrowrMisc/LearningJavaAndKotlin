@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_4fa79081"
+        },
+        {
+            "type": "cppvsdbg"
+        }
+    ]
+}
